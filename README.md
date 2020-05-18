@@ -22,3 +22,4 @@ ANPR systems are here to stay – from  Parking and Motorway Tolling to Border  
 The most predominantly prevalent usage  of ANPR, today, is in Electronic Toll  Collection systems (ETC) / Intelligent  Traffic Management Systems.
 
 
+![Capture_anpr](https://user-images.githubusercontent.com/47916019/82218221-30d9ff00-9939-11ea-8eb8-2add9f91c57a.JPG)
